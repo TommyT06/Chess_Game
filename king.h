@@ -1,0 +1,1 @@
+int check(char pos[][8], int white);
